@@ -1,6 +1,5 @@
 <h2 align="left">Hi There 👋! I'm Septian Dwi Cahyo</h2>
 
-<<<<<<< HEAD
 ###
 
 <h3 align="left">I'm Front-End Web Developer, UI/UX Designer, & Content Creator. I'm based in East Java, Indonesia.</h3>
