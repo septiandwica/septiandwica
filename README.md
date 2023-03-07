@@ -44,17 +44,11 @@
 
 <br clear="both">
 
-<img align="right" height="150" src="https://i.pinimg.com/originals/26/20/f0/2620f098fda0c1ece4ef1da01fed6339.gif"  />
-
-###
-
-<img src="https://raw.githubusercontent.com/septiandwica/septiandwica/blob/output/snake.svg" alt="Snake animation" />
-
-###
+<img align="center" height="180" src="https://i.pinimg.com/originals/26/20/f0/2620f098fda0c1ece4ef1da01fed6339.gif"  />
 
 <br clear="both">
 
-<img align="right" src="https://profile-counter.glitch.me/septiandwica/count.svg?"  />
+<img align="center" src="https://profile-counter.glitch.me/septiandwica/count.svg?"  />
 
 ###
 
