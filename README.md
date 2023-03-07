@@ -48,13 +48,13 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Septiandwica/Septiandwica/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/septiandwica/septiandwica/blob/output/snake.svg" alt="Snake animation" />
 
 ###
 
 <br clear="both">
 
-<img align="right" src="https://profile-counter.glitch.me/Septiandwica/count.svg?"  />
+<img align="right" src="https://profile-counter.glitch.me/septiandwica/count.svg?"  />
 
 ###
 
