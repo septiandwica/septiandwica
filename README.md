@@ -7,8 +7,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=Septiandwica" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=Septiandwica" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=Se" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=Se" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -47,19 +47,13 @@
 <img align="right" height="150" src="https://i.pinimg.com/originals/26/20/f0/2620f098fda0c1ece4ef1da01fed6339.gif"  />
 
 ###
-=======
-<!--
-**Septiandwica/Septiandwica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
->>>>>>> be2cfcba54435356fbd12371a407ce52e155e87e
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Septiandwica/Septiandwica/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Se/Se/blob/output/snake.svg" alt="Snake animation" />
 
 ###
 
 <br clear="both">
 
-<img align="right" src="https://profile-counter.glitch.me/Septiandwica/count.svg?"  />
+<img align="right" src="https://profile-counter.glitch.me/Se/count.svg?"  />
 
 ###
