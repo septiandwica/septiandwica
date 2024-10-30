@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">I'm Front-End Web Developer, UI/UX Designer, & Content Creator. I'm based in East Java, Indonesia.</h3>
+<h3 align="left">I'm Full Stack Developer, UI/UX Designer, & Content Creator. I'm based in Indonesia.</h3>
 
 ###
 
