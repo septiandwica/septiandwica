@@ -29,3 +29,25 @@ A passionate Software Engineer dedicated to solving complex real-world problems 
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </p>
+
+---
+
+### 🎮 Play Tic-Tac-Toe with AI
+
+Click on any empty cell (⬜) to make your move! (This will open an Issue).
+
+<!-- ttt_board_start -->
+| 0 | 1 | 2 |
+|---|---|---|
+| [⬜](https://github.com/septiandwica/septiandwica/issues/new?title=ttt_move_0_0&body=Just+submit+the+issue+to+make+a+move!) | [⬜](https://github.com/septiandwica/septiandwica/issues/new?title=ttt_move_0_1&body=Just+submit+the+issue+to+make+a+move!) | [⬜](https://github.com/septiandwica/septiandwica/issues/new?title=ttt_move_0_2&body=Just+submit+the+issue+to+make+a+move!) |
+| [⬜](https://github.com/septiandwica/septiandwica/issues/new?title=ttt_move_1_0&body=Just+submit+the+issue+to+make+a+move!) | [⬜](https://github.com/septiandwica/septiandwica/issues/new?title=ttt_move_1_1&body=Just+submit+the+issue+to+make+a+move!) | [⬜](https://github.com/septiandwica/septiandwica/issues/new?title=ttt_move_1_2&body=Just+submit+the+issue+to+make+a+move!) |
+| [⬜](https://github.com/septiandwica/septiandwica/issues/new?title=ttt_move_2_0&body=Just+submit+the+issue+to+make+a+move!) | [⬜](https://github.com/septiandwica/septiandwica/issues/new?title=ttt_move_2_1&body=Just+submit+the+issue+to+make+a+move!) | [⬜](https://github.com/septiandwica/septiandwica/issues/new?title=ttt_move_2_2&body=Just+submit+the+issue+to+make+a+move!) |
+<!-- ttt_board_end -->
+
+---
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=septiandwica&label=PROFILE%20VIEWS&color=000000&style=for-the-badge" alt="Profile Views" />
+</p>
+
+
