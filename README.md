@@ -8,10 +8,10 @@ A passionate Software Engineer dedicated to solving complex real-world problems 
 ### 💻 Tech Stack
 
 * **Languages:** JavaScript, TypeScript, Python, PHP
-* **Frameworks & Libraries:** React.js, React Native, Next.js, Vue.js, Laravel, Node.js
+* **Frameworks & Libraries:** React.js, React Native, Next.js, Vue.js, Laravel, Django (REST Framework), FastAPI, Node.js
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,php,react,nextjs,vue,laravel,nodejs&theme=dark" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,php,react,nextjs,vue,laravel,django,fastapi,nodejs&theme=dark" alt="Tech Stack" />
 </p>
 
 ---
