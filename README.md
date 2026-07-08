@@ -32,7 +32,7 @@ A passionate Software Engineer dedicated to solving complex real-world problems 
 ---
 
 ### 🔥 Contribution Streak
-<a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://raw.githubusercontent.com/septiandwica/septiandwica/output/profile/streak.svg" alt="GitHub Streak" /></a>
 ---
 
 <p align="left">
