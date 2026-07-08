@@ -32,7 +32,7 @@ A passionate Software Engineer dedicated to solving complex real-world problems 
 ---
 
 ### 🔥 Contribution Streak
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=septiandwica&theme=dark&hide_border=true&short_numbers=true&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=septiandwica&theme=dark&hide_border=true&short_numbers=true&mode=weekly)](https://git.io/streak-stats)
 ---
 
 <p align="left">
